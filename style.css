@@ -348,16 +348,16 @@ footer {
     }
 
     div.weather-info {
-        bottom: 10%;
-        transform: translate(50%, -10%);
+        bottom: 15%;
+        transform: translate(50%, -15%);
     }
 
     h1 {
-        font-size: 4.4em;
+        font-size: 4em;
     }
 
     .weather-info h2 {
-        font-size: 5em;
+        font-size: 3em;
     }
 
     nav.app-menu {
