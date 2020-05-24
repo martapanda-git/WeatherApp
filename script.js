@@ -76,7 +76,7 @@ function displayWeather() {
     weatherTemp.innerHTML = `<h1>${weather.temperature.value}°<span>C</span></h1>`;
     weatherDesc.innerHTML = weather.description;
     weatherLocation.innerHTML = `${weather.city}, ${weather.country}`;
-}
+};
 
 menuBtn.addEventListener("click", function () {
     menuFaBars.classList.toggle("show");
