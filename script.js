@@ -78,6 +78,8 @@ function displayWeather() {
     weatherLocation.innerHTML = `${weather.city}, ${weather.country}`;
 };
 
+
+//menu mobile
 menuBtn.addEventListener("click", function () {
     menuFaBars.classList.toggle("show");
     menuFaTimes.classList.toggle("show");
