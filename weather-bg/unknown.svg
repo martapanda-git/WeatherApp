@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#FFF5E6;}
+	.st1{clip-path:url(#SVGID_4_);fill:#F0F0FD;}
+	.st2{clip-path:url(#SVGID_6_);fill:#FDC8C2;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" width="1366" height="768"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st0" d="M59,768c0,0,471-138,624-291C815.2,344.8,932-92,1384-13v794H59V768z"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" width="1366" height="768"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st1" d="M148.1,768.9c0,0,475.1-123.1,632.9-271.2c136.3-128,266.8-560.9,716.1-467.7l-25,793.6L147.7,781.9
+			L148.1,768.9z"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_5_" width="1366" height="768"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<circle class="st2" cx="1326.2" cy="333.4" r="151"/>
+	</g>
+</g>
+</svg>
