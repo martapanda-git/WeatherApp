@@ -50,7 +50,7 @@ function showError(error) {
 
 //WEATHER from OPENWEATHERMAP
 function getWeather(latitude, longitude) {
-    const api = `http://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${key}`;
+    const api = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${key}`;
 
     fetch(api)
         .then(function (response) {
